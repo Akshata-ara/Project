@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "name": "Akshata",
+      "salary": "50000",
+      "company": "infosys",
+      "id": 1
+    },
+    {
+      "name": "Akshata",
+      "salary": "55555",
+      "company": "bxc",
+      "id": 2
+    },
+    {
+      "uname": "Akshata",
+      "pwd": "Akshu@1998",
+      "id": 3
+    },
+    {
+      "name": "Aksh",
+      "salary": "555",
+      "company": "ssa",
+      "id": 4
+    },
+    {
+      "name": "",
+      "salary": "",
+      "company": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "salary": "",
+      "company": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "salary": "",
+      "company": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "salary": "",
+      "company": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "salary": "",
+      "company": "",
+      "id": 9
+    }
+  ]
+}
